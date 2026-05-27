@@ -47,7 +47,7 @@ const GALLERY_DATA = [
     type: "Videography",
     titel: "event",
     category: "Cenematic",
-    imgUrl: "/video/video7.mp4",
+    imgUrl: "/foto/video7.mp4",
     desc: "mencoba hal baru"
   }
 ];
