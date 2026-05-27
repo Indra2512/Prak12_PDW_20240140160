@@ -36,11 +36,19 @@ const GALLERY_DATA = [
   },
   {
     id: 5,
-    type: "Videography",
-    titel: "Event",
-    category: "Cenematic",
+    type: "Photography",
+    titel: "ibadah",
+    category: "Potrait",
     imgUrl: "/foto/foto5.jpg",
-    desc: "mencoba tren baru"
+    desc: "sebuah rumah ibadah"
+  },
+  {
+    id: 6,
+    type: "Videography",
+    titel: "event",
+    category: "Cenematic",
+    imgUrl: "/video/video7.mp4",
+    desc: "mencoba hal baru"
   }
 ];
 
