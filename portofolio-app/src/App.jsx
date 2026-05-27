@@ -7,7 +7,7 @@ const GALLERY_DATA = [
     type: "Photography",
     titel: "Pantai",
     category: "Street Photography",
-    imgUrl: "https://www.instagram.com/p/DJ_gKpCvpDF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    imgUrl: "foto 1.jpg",
     desc: "Sebuah kapal yang tertata rapi di tepi pantai."
   },
   {
