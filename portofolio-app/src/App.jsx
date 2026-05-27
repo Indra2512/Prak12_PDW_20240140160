@@ -7,7 +7,7 @@ const GALLERY_DATA = [
     type: "Photography",
     titel: "Pantai",
     category: "Street Photography",
-    imgUrl: "foto 1.jpg",
+    imgUrl: "/foto/foto1.jpg",
     desc: "Sebuah kapal yang tertata rapi di tepi pantai."
   },
   {
@@ -15,7 +15,7 @@ const GALLERY_DATA = [
     type: "Photography",
     titel: "Dari atas",
     category: "Street Photography",
-    imgUrl: "https://www.instagram.com/p/C3h0CqcPQFi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    imgUrl: "/foto/foto2.jpg",
     desc: "menatap keindahan cipataan yang maha kuasa."
   },
   {
@@ -23,7 +23,7 @@ const GALLERY_DATA = [
     type: "Photography",
     titel: "kepekaan",
     category: "CloseUp",
-    imgUrl: "https://www.instagram.com/p/DWTwVaTgekg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    imgUrl: "/foto/foto3.jpg",
     desc: "stay calm and alert"
   },
   {
@@ -31,7 +31,7 @@ const GALLERY_DATA = [
     type: "Photography",
     titel: "NightStreet",
     category: "Light Trails",
-    imgUrl: "https://www.instagram.com/p/DSmDwJSgX2N/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    imgUrl: "/foto/foto4.jpg",
     desc: "walking in the night"
   },
   {
@@ -39,7 +39,7 @@ const GALLERY_DATA = [
     type: "Videography",
     titel: "Event",
     category: "Cenematic",
-    imgUrl: "https://www.instagram.com/reel/DXJyxlkCLCv/?utm_source=ig_web_copy_link",
+    imgUrl: "/foto/foto5.jpg",
     desc: "mencoba tren baru"
   }
 ];
